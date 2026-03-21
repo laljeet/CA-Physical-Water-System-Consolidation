@@ -54,7 +54,7 @@ The analysis requires the following publicly available datasets. Due to file siz
 | Dataset | Source | URL |
 |---------|--------|-----|
 | SAFER Risk Assessment | SWRCB | https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/needs.html |
-| Service Area Boundaries (SABL) | SWRCB | https://gis.data.ca.gov/datasets/CDPH::california-drinking-water-system-area-boundaries |
+| Service Area Boundaries (SABL) | SWRCB | https://gis.data.ca.gov/datasets/waterboards::california-drinking-water-system-area-boundaries/about |
 | County Boundaries (TIGER/Line) | U.S. Census Bureau | Downloaded automatically via `tigris` package |
 | OpenStreetMap Road Network | OSM Contributors | Downloaded via script `04a_download_osm_roads.R` |
 
