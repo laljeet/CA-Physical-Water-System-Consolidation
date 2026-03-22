@@ -7,13 +7,10 @@ This repository contains the complete analysis pipeline for assessing physical c
 **Associated Publication:**  
 Sangha, L. (2026). "Physical Water System Consolidation is a Necessary but Insufficient Strategy for Achieving Safe Drinking Water Access in the San Joaquin Valley." *J. Water Resour. Plann. Manage.* [DOI pending]
 
-## Key Findings
+## Interactive Leaflet Plots
 
-- 114 consolidation candidates identified across four counties
-- 113 of 114 (99%) meet state funding viability thresholds
-- Estimated total capital need: $413.5 million
-- 97 joining systems (46%) lack a physically feasible consolidation partner
-- Model results align with all 11 mandatory consolidation projects currently in progress in Kern County
+The interactive leaflet plots for counties may be viewed at https://laljeet.github.io/CA-Physical-Water-System-Consolidation/
+
 
 ## Repository Structure
 
