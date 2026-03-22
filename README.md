@@ -109,7 +109,7 @@ Scripts are designed to run sequentially. Each script sources `R/00_paths.R` for
 | 06_consolidation_visuals.R | Interactive maps | 2-5 min per county |
 | 07_publication_figures.R | Static publication figures | < 1 min |
 
-**Note:** Script 04 (proximity analysis) is the most computationally intensive step due to road-network routing. For counties with large road networks (e.g., Fresno, Tulare), 16+ GB RAM is recommended. OSM road data downloads in script 04a require internet access and may take several hours for all counties.
+**Note:** Script 04 (proximity analysis) is the most computationally intensive step due to road-network routing. For counties with large road networks (e.g., Fresno, Tulare), 16+ GB RAM is the minimum requirement. OSM road data downloads in script 04a require internet access and may take several hours for all counties.
 
 ### Running for a Specific County
 
@@ -150,4 +150,4 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 Laljeet Sangha  
 University of California Cooperative Extension, Kern County  
-Email: [your email]
+Email: lsanghah2o@gmail.com
