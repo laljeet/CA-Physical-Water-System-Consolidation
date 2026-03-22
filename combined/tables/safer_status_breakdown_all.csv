@@ -1,0 +1,291 @@
+county,status,num_systems,population
+Alameda,Failing,0,0
+Alameda,At-Risk,1,50
+Alameda,Potentially At-Risk,0,0
+Alameda,Not Assessed,5,1949795
+Alameda,Not At-Risk,9,277485
+Alpine,Failing,1,7851
+Alpine,At-Risk,1,625
+Alpine,Potentially At-Risk,1,70
+Alpine,Not Assessed,1,35
+Alpine,Not At-Risk,3,325
+Amador,Failing,2,80
+Amador,At-Risk,3,3952
+Amador,Potentially At-Risk,4,12273
+Amador,Not Assessed,0,0
+Amador,Not At-Risk,12,21489
+Butte,Failing,5,671
+Butte,At-Risk,7,8837
+Butte,Potentially At-Risk,6,13368
+Butte,Not Assessed,2,114986
+Butte,Not At-Risk,30,61317
+Calaveras,Failing,0,0
+Calaveras,At-Risk,5,9415
+Calaveras,Potentially At-Risk,7,13953
+Calaveras,Not Assessed,1,85
+Calaveras,Not At-Risk,8,27696
+Colusa,Failing,2,6959
+Colusa,At-Risk,1,250
+Colusa,Potentially At-Risk,0,0
+Colusa,Not Assessed,0,0
+Colusa,Not At-Risk,6,10304
+Contra Costa,Failing,4,1483
+Contra Costa,At-Risk,4,928
+Contra Costa,Potentially At-Risk,2,310
+Contra Costa,Not Assessed,4,313075
+Contra Costa,Not At-Risk,27,245505
+Del Norte,Failing,2,83
+Del Norte,At-Risk,4,976
+Del Norte,Potentially At-Risk,2,370
+Del Norte,Not Assessed,0,0
+Del Norte,Not At-Risk,10,24432
+El Dorado,Failing,1,150
+El Dorado,At-Risk,7,1394
+El Dorado,Potentially At-Risk,4,1687
+El Dorado,Not Assessed,2,232171
+El Dorado,Not At-Risk,9,27072
+Fresno,Failing,30,87169
+Fresno,At-Risk,39,70648
+Fresno,Potentially At-Risk,25,24008
+Fresno,Not Assessed,3,676150
+Fresno,Not At-Risk,35,140621
+Glenn,Failing,0,0
+Glenn,At-Risk,5,812
+Glenn,Potentially At-Risk,4,7550
+Glenn,Not Assessed,0,0
+Glenn,Not At-Risk,10,11605
+Humboldt,Failing,3,1169
+Humboldt,At-Risk,6,1784
+Humboldt,Potentially At-Risk,10,4182
+Humboldt,Not Assessed,1,680
+Humboldt,Not At-Risk,31,114814
+Imperial,Failing,6,3496
+Imperial,At-Risk,13,58920
+Imperial,Potentially At-Risk,6,53843
+Imperial,Not Assessed,0,0
+Imperial,Not At-Risk,9,57743
+Inyo,Failing,5,2065
+Inyo,At-Risk,8,1790
+Inyo,Potentially At-Risk,2,478
+Inyo,Not Assessed,4,0
+Inyo,Not At-Risk,29,12522
+Kern,Failing,55,113977
+Kern,At-Risk,52,158852
+Kern,Potentially At-Risk,28,64113
+Kern,Not Assessed,4,428025
+Kern,Not At-Risk,44,216627
+Kings,Failing,3,42123
+Kings,At-Risk,4,39608
+Kings,Potentially At-Risk,6,67909
+Kings,Not Assessed,0,0
+Kings,Not At-Risk,5,2817
+Lake,Failing,5,3844
+Lake,At-Risk,9,7575
+Lake,Potentially At-Risk,12,5413
+Lake,Not Assessed,0,0
+Lake,Not At-Risk,18,49584
+Lassen,Failing,0,0
+Lassen,At-Risk,3,750
+Lassen,Potentially At-Risk,7,6473
+Lassen,Not Assessed,0,0
+Lassen,Not At-Risk,10,12829
+Los Angeles,Failing,12,34042
+Los Angeles,At-Risk,43,450486
+Los Angeles,Potentially At-Risk,23,471198
+Los Angeles,Not Assessed,24,6995386
+Los Angeles,Not At-Risk,100,2109020
+Madera,Failing,27,7601
+Madera,At-Risk,15,9710
+Madera,Potentially At-Risk,13,76049
+Madera,Not Assessed,4,855
+Madera,Not At-Risk,26,46766
+Marin,Failing,0,0
+Marin,At-Risk,2,4043
+Marin,Potentially At-Risk,1,36
+Marin,Not Assessed,2,187107
+Marin,Not At-Risk,14,86693
+Mariposa,Failing,1,130
+Mariposa,At-Risk,5,2405
+Mariposa,Potentially At-Risk,1,2000
+Mariposa,Not Assessed,1,113
+Mariposa,Not At-Risk,9,2889
+Mendocino,Failing,5,729
+Mendocino,At-Risk,7,13786
+Mendocino,Potentially At-Risk,8,1770
+Mendocino,Not Assessed,2,140
+Mendocino,Not At-Risk,33,47124
+Merced,Failing,9,35595
+Merced,At-Risk,15,58274
+Merced,Potentially At-Risk,6,55163
+Merced,Not Assessed,1,58
+Merced,Not At-Risk,8,95274
+Modoc,Failing,0,0
+Modoc,At-Risk,1,629
+Modoc,Potentially At-Risk,0,0
+Modoc,Not Assessed,0,0
+Modoc,Not At-Risk,5,4346
+Mono,Failing,2,2894
+Mono,At-Risk,4,3737
+Mono,Potentially At-Risk,5,8812
+Mono,Not Assessed,0,0
+Mono,Not At-Risk,9,3288
+Monterey,Failing,17,2748
+Monterey,At-Risk,42,15698
+Monterey,Potentially At-Risk,23,4768
+Monterey,Not Assessed,4,216194
+Monterey,Not At-Risk,84,203203
+Napa,Failing,4,90334
+Napa,At-Risk,7,2023
+Napa,Potentially At-Risk,2,21637
+Napa,Not Assessed,1,1000
+Napa,Not At-Risk,17,13989
+Nevada,Failing,1,110
+Nevada,At-Risk,7,13391
+Nevada,Potentially At-Risk,8,21802
+Nevada,Not Assessed,2,365
+Nevada,Not At-Risk,12,59891
+Orange,Failing,0,0
+Orange,At-Risk,3,372
+Orange,Potentially At-Risk,0,0
+Orange,Not Assessed,14,2306240
+Orange,Not At-Risk,23,888509
+Placer,Failing,0,0
+Placer,At-Risk,1,250
+Placer,Potentially At-Risk,4,431
+Placer,Not Assessed,3,155717
+Placer,Not At-Risk,49,261513
+Plumas,Failing,2,1514
+Plumas,At-Risk,3,687
+Plumas,Potentially At-Risk,4,7275
+Plumas,Not Assessed,0,0
+Plumas,Not At-Risk,18,15260
+Riverside,Failing,10,12261
+Riverside,At-Risk,16,50840
+Riverside,Potentially At-Risk,15,163389
+Riverside,Not Assessed,11,1854409
+Riverside,Not At-Risk,45,502261
+Sacramento,Failing,3,420
+Sacramento,At-Risk,18,14563
+Sacramento,Potentially At-Risk,10,9602
+Sacramento,Not Assessed,4,899847
+Sacramento,Not At-Risk,38,690013
+San Benito,Failing,5,1482
+San Benito,At-Risk,10,27963
+San Benito,Potentially At-Risk,4,253
+San Benito,Not Assessed,1,25
+San Benito,Not At-Risk,16,35569
+San Bernardino,Failing,21,87012
+San Bernardino,At-Risk,19,287445
+San Bernardino,Potentially At-Risk,21,125372
+San Bernardino,Not Assessed,13,1305728
+San Bernardino,Not At-Risk,78,676315
+San Diego,Failing,21,27780
+San Diego,At-Risk,10,20442
+San Diego,Potentially At-Risk,9,6109
+San Diego,Not Assessed,11,2752794
+San Diego,Not At-Risk,36,689317
+San Francisco,Failing,0,0
+San Francisco,At-Risk,1,3864
+San Francisco,Potentially At-Risk,0,0
+San Francisco,Not Assessed,2,848619
+San Francisco,Not At-Risk,2,3910
+San Joaquin,Failing,9,86648
+San Joaquin,At-Risk,35,41690
+San Joaquin,Potentially At-Risk,24,22142
+San Joaquin,Not Assessed,4,367619
+San Joaquin,Not At-Risk,44,228170
+San Luis Obispo,Failing,8,3432
+San Luis Obispo,At-Risk,10,22578
+San Luis Obispo,Potentially At-Risk,12,20656
+San Luis Obispo,Not Assessed,5,1604
+San Luis Obispo,Not At-Risk,45,223764
+San Mateo,Failing,5,3378
+San Mateo,At-Risk,6,23410
+San Mateo,Potentially At-Risk,1,832
+San Mateo,Not Assessed,2,207249
+San Mateo,Not At-Risk,23,540016
+Santa Barbara,Failing,4,725
+Santa Barbara,At-Risk,10,35919
+Santa Barbara,Potentially At-Risk,9,1761
+Santa Barbara,Not Assessed,3,109477
+Santa Barbara,Not At-Risk,40,317401
+Santa Clara,Failing,6,939
+Santa Clara,At-Risk,4,248
+Santa Clara,Potentially At-Risk,6,750
+Santa Clara,Not Assessed,6,1438362
+Santa Clara,Not At-Risk,53,629473
+Santa Cruz,Failing,6,1527
+Santa Cruz,At-Risk,11,3259
+Santa Cruz,Potentially At-Risk,13,96964
+Santa Cruz,Not Assessed,0,0
+Santa Cruz,Not At-Risk,28,153913
+Shasta,Failing,1,168
+Shasta,At-Risk,7,1029
+Shasta,Potentially At-Risk,8,6301
+Shasta,Not Assessed,1,89628
+Shasta,Not At-Risk,56,75866
+Sierra,Failing,0,0
+Sierra,At-Risk,2,926
+Sierra,Potentially At-Risk,3,1215
+Sierra,Not Assessed,0,0
+Sierra,Not At-Risk,3,1389
+Siskiyou,Failing,3,390
+Siskiyou,At-Risk,8,3429
+Siskiyou,Potentially At-Risk,4,918
+Siskiyou,Not Assessed,0,0
+Siskiyou,Not At-Risk,24,24471
+Solano,Failing,0,0
+Solano,At-Risk,3,322
+Solano,Potentially At-Risk,7,22662
+Solano,Not Assessed,4,338800
+Solano,Not At-Risk,11,96298
+Sonoma,Failing,15,2541
+Sonoma,At-Risk,19,17808
+Sonoma,Potentially At-Risk,15,3903
+Sonoma,Not Assessed,5,175513
+Sonoma,Not At-Risk,100,247869
+Stanislaus,Failing,17,144174
+Stanislaus,At-Risk,13,1894
+Stanislaus,Potentially At-Risk,14,65293
+Stanislaus,Not Assessed,4,218819
+Stanislaus,Not At-Risk,28,62348
+Sutter,Failing,3,280
+Sutter,At-Risk,6,10168
+Sutter,Potentially At-Risk,0,0
+Sutter,Not Assessed,2,308
+Sutter,Not At-Risk,6,73867
+Tehama,Failing,3,352
+Tehama,At-Risk,13,2659
+Tehama,Potentially At-Risk,16,17460
+Tehama,Not Assessed,3,288
+Tehama,Not At-Risk,29,19130
+Trinity,Failing,2,210
+Trinity,At-Risk,2,83
+Trinity,Potentially At-Risk,2,792
+Trinity,Not Assessed,0,0
+Trinity,Not At-Risk,14,8811
+Tulare,Failing,30,47916
+Tulare,At-Risk,33,33463
+Tulare,Potentially At-Risk,17,11839
+Tulare,Not Assessed,3,148596
+Tulare,Not At-Risk,34,171877
+Tuolumne,Failing,6,5432
+Tuolumne,At-Risk,9,1677
+Tuolumne,Potentially At-Risk,5,6161
+Tuolumne,Not Assessed,0,0
+Tuolumne,Not At-Risk,33,51223
+Ventura,Failing,7,2932
+Ventura,At-Risk,12,42805
+Ventura,Potentially At-Risk,8,53777
+Ventura,Not Assessed,5,313732
+Ventura,Not At-Risk,41,462810
+Yolo,Failing,3,404
+Yolo,At-Risk,7,56117
+Yolo,Potentially At-Risk,2,50048
+Yolo,Not Assessed,2,200
+Yolo,Not At-Risk,10,143016
+Yuba,Failing,4,470
+Yuba,At-Risk,4,4344
+Yuba,Potentially At-Risk,4,22119
+Yuba,Not Assessed,0,0
+Yuba,Not At-Risk,17,50578

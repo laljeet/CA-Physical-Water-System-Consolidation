@@ -1,0 +1,59 @@
+county_name,county_fips,county_slug
+Alameda,06001,alameda
+Alpine,06003,alpine
+Amador,06005,amador
+Butte,06007,butte
+Calaveras,06009,calaveras
+Colusa,06011,colusa
+Contra Costa,06013,contra_costa
+Del Norte,06015,del_norte
+El Dorado,06017,el_dorado
+Fresno,06019,fresno
+Glenn,06021,glenn
+Humboldt,06023,humboldt
+Imperial,06025,imperial
+Inyo,06027,inyo
+Kern,06029,kern
+Kings,06031,kings
+Lake,06033,lake
+Lassen,06035,lassen
+Los Angeles,06037,los_angeles
+Madera,06039,madera
+Marin,06041,marin
+Mariposa,06043,mariposa
+Mendocino,06045,mendocino
+Merced,06047,merced
+Modoc,06049,modoc
+Mono,06051,mono
+Monterey,06053,monterey
+Napa,06055,napa
+Nevada,06057,nevada
+Orange,06059,orange
+Placer,06061,placer
+Plumas,06063,plumas
+Riverside,06065,riverside
+Sacramento,06067,sacramento
+San Benito,06069,san_benito
+San Bernardino,06071,san_bernardino
+San Diego,06073,san_diego
+San Francisco,06075,san_francisco
+San Joaquin,06077,san_joaquin
+San Luis Obispo,06079,san_luis_obispo
+San Mateo,06081,san_mateo
+Santa Barbara,06083,santa_barbara
+Santa Clara,06085,santa_clara
+Santa Cruz,06087,santa_cruz
+Shasta,06089,shasta
+Sierra,06091,sierra
+Siskiyou,06093,siskiyou
+Solano,06095,solano
+Sonoma,06097,sonoma
+Stanislaus,06099,stanislaus
+Sutter,06101,sutter
+Tehama,06103,tehama
+Trinity,06105,trinity
+Tulare,06107,tulare
+Tuolumne,06109,tuolumne
+Ventura,06111,ventura
+Yolo,06113,yolo
+Yuba,06115,yuba
