@@ -63,7 +63,13 @@ The analysis requires the following publicly available datasets. Due to file siz
 1. Download the SAFER Risk Assessment CSV and place it at `data_in/SAFER_RA.csv`
 2. Download the California Drinking Water System Area Boundaries shapefile and extract to `data_in/California_Drinking_Water_System_Area_Boundaries/`
 3. Run scripts 01-03 to generate derived datasets
-4. Run script 04a to download and cache OSM road data for study counties
+4. For Kern County, OSM road data is stored at `data_in/kern_roads_osm_raw.rds`
+5. For other counties, run script 04a to download OSM road data to `data_in/osm_roads/`
+```
+
+And update the `.gitignore` to also exclude the Kern file in its current location:
+```
+data_in/kern_roads_osm_raw.rds
 
 ## Reproducing Results
 
