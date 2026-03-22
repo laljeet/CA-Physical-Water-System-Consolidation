@@ -73,8 +73,6 @@ The analysis requires the following publicly available datasets. Due to file siz
 4. For Kern County, OSM road data is stored at `data_in/kern_roads_osm_raw.rds`
 5. For other counties, run script 04a to download OSM road data to `data_in/osm_roads/`
 ```
-
-And update the `.gitignore` to also exclude the Kern file in its current location:
 ```
 data_in/kern_roads_osm_raw.rds
 
