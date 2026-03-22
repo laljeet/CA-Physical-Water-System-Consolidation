@@ -28,20 +28,27 @@ Sangha, L. (2026). "Physical Water System Consolidation is a Necessary but Insuf
 │   ├── 04_proximity_analysis.R # Consolidation proximity analysis
 │   ├── 04a_download_osm_roads.R# Download OSM road network data
 │   ├── 05_cost_analysis.R      # Capital cost estimation
-│   ├── 06_consolidation_visuals.R # Interactive leaflet maps
-│   └── 07_publication_figures.R# Static figures for manuscript
+│   ├── 06_kern_consolidation_visuals.R # Intersect Consolidation map visual
+│   └── 07 Consolidation route visual.R# Route Consolidation map visual
+│   ├── 08 Interactive maps# Interactive maps for selcted counties in manuscript
+│   ├── 09 manuscript figures.R # All figures in the manuscript
+│   └── 10 manuscript results.R# All results numbers/tables in the manuscript
+│   └── Master script to reproduce all results
+├── docs/                                 # GitHub Pages interactive maps
+│   ├── index.html                        # Landing page
+│   ├── kern_consolidation_map.html       # Kern County interactive map
+│   ├── kings_consolidation_map.html      # Kings County interactive map
+│   ├── tulare_consolidation_map.html     # Tulare County interactive map
+│   └── fresno_consolidation_map.html     # Fresno County interactive map
 ├── data_in/                    # Input data (see Data Sources below)
 │   ├── osm_roads/              # Cached OSM road networks per county
 │   └── README.md               # Data download instructions
 ├── counties/                   # Per-county outputs (generated)
 │   └── <county_slug>/
-│       ├── water_systems.gpkg  # County water systems spatial data
+│       ├── water_systems.gpkg  # County water systems spatial data (see download instruction below and place it here)
 │       └── tables/             # CSV outputs per county
 ├── combined/
 │   └── tables/                 # Statewide summary tables
-├── manuscript/
-│   ├── figures/                # Publication figures
-│   └── tables/                 # Publication tables
 ├── run_all.R                   # Master script to reproduce all results
 ├── SAFER.Rproj                 # RStudio project file
 └── README.md                   # This file
