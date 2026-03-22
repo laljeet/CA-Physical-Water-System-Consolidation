@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Water System Consolidation - Interactive Maps</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1 { color: #2c7bb6; }
+        h2 { color: #555; margin-top: 30px; }
+        a { color: #2c7bb6; }
+        .map-link {
+            display: block;
+            padding: 15px 20px;
+            margin: 10px 0;
+            background: #f5f5f5;
+            border-left: 4px solid #2c7bb6;
+            text-decoration: none;
+            color: #333;
+            font-size: 16px;
+        }
+        .map-link:hover {
+            background: #e8f0f8;
+        }
+        .map-link .county { font-weight: bold; font-size: 18px; }
+        .map-link .details { color: #666; font-size: 14px; margin-top: 4px; }
+        .note {
+            background: #fff8e1;
+            padding: 15px;
+            border-left: 4px solid #fdae61;
+            margin: 20px 0;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Physical Water System Consolidation in the San Joaquin Valley</h1>
+    <p>Interactive maps accompanying the manuscript:</p>
+    <p><em>"Physical Water System Consolidation is a Necessary but Insufficient Strategy for Achieving Safe Drinking Water Access in the San Joaquin Valley"</em></p>
+    <p>Sangha, L. (2026). <em>J. Water Resour. Plann. Manage.</em></p>
+
+    <h2>Interactive County Maps</h2>
+    <p>Click on any county to explore consolidation pairs, system details, and road routes. Maps are fully interactive with zoom, pan, and popup information for each system.</p>
+
+    <a class="map-link" href="kern_consolidation_map.html">
+        <div class="county">Kern County</div>
+        <div class="details">64 consolidation pairs (29 intersect, 35 route)</div>
+    </a>
+
+    <a class="map-link" href="fresno_consolidation_map.html">
+        <div class="county">Fresno County</div>
+        <div class="details">26 consolidation pairs (10 intersect, 16 route)</div>
+    </a>
+
+    <a class="map-link" href="tulare_consolidation_map.html">
+        <div class="county">Tulare County</div>
+        <div class="details">22 consolidation pairs (5 intersect, 17 route)</div>
+    </a>
+
+    <a class="map-link" href="kings_consolidation_map.html">
+        <div class="county">Kings County</div>
+        <div class="details">2 consolidation pairs (1 intersect, 1 route)</div>
+    </a>
+
+    <div class="note">
+        <strong>Note:</strong> These maps display modeled consolidation candidates based on the SWRCB 2024 Physical Consolidation methodology. They represent screening-level estimates and are not intended to prescribe specific community solutions.
+    </div>
+
+    <h2>About</h2>
+    <p>Analysis code and data: <a href="https://github.com/YOUR_USERNAME/water-consolidation-sjv">GitHub Repository</a></p>
+    <p>Contact: Laljeet Sangha, University of California Cooperative Extension, Kern County</p>
+</body>
+</html>
