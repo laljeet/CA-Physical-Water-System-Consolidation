@@ -136,7 +136,7 @@ If you use this code or data in your research, please cite:
 ```
 Sangha, L. (2026). "Physical Water System Consolidation is a Necessary but 
 Insufficient Strategy for Achieving Safe Drinking Water Access in the 
-San Joaquin Valley." J. Water Resour. Plann. Manage. [DOI pending]
+San Joaquin Valley." TBD. [DOI pending]
 ```
 
 ## License
