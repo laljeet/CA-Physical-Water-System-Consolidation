@@ -5,7 +5,7 @@
 This repository contains the complete analysis pipeline for assessing physical consolidation feasibility and estimated capital costs for failing and at-risk public water systems in four San Joaquin Valley counties: Kern, Kings, Tulare, and Fresno. The analysis follows the State Water Resources Control Board's 2024 Physical Consolidation Cost Estimate Methodology, implemented entirely in R using publicly available data and open-source tools.
 
 **Associated Publication:**  
-Sangha, L. (2026). "Physical Water System Consolidation is a Necessary but Insufficient Strategy for Achieving Safe Drinking Water Access in the San Joaquin Valley." *J. Water Resour. Plann. Manage.* [DOI pending]
+Sangha, L. (2026). "Physical Water System Consolidation is a Necessary but Insufficient Strategy for Achieving Safe Drinking Water Access in the San Joaquin Valley." *TBD* [DOI pending]
 
 ## Interactive Leaflet Plots
 
